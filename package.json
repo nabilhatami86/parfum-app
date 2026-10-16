@@ -1,0 +1,19 @@
+{
+  "name": "parfum-app",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^0.10.4",
+    "@tailwindcss/postcss": "^4.3.3",
+    "lucide-react": "^1.57.0",
+    "next": "^15.0.0",
+    "postcss": "^8.5.30",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwindcss": "^4.3.3"
+  }
+}
